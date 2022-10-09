@@ -2,7 +2,7 @@
 
 流量监测设备发现某IP存在高危攻击事件，开始对此IP进行反制溯源
 
-![](images\phpstudy_backdoor-1-1.png)
+![](images/phpstudy_backdoor-1-1.png)
 
 > **Xray进行漏洞探测**
 
